@@ -54,7 +54,7 @@ Cada uno tiene un símbolo único.
 Los inductores ajustables (variables) disponen, en general, de un ajuste tipo tornillo que mueve un núcleo deslizante hacia dentro y hacia fuera y, por tanto, cambia la inductancia. Existe una
 amplia variedad de inductores. Los inductores fijos pequeños se encapsulan con frecuencia en un material aislante que protege el fino alambre de la bobina. Los inductores encapsulados tienen una apariencia similar a un resistor.
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/INDUCTOR%202.jpg)
 
 INDUCTORES EN SERIE Y EN PARALELO: Cuando se conectan inductores en serie, la inductancia total aumenta. Cuando se conectan en paralelo, la inductancia total disminuye.
 
@@ -108,7 +108,7 @@ no disipa energía, sólo la guarda. Cuando se aplica un voltaje de ca a un indu
 durante otra parte del ciclo. En un inductor ideal no se pierde energía neta a causa de la conversión en calor. La siguiente imagen muestra la curva de potencia que resulta de un ciclo de corriente o
 de voltaje en el inductor.
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/3%20potencia%20de%20un%20inductor.jpg)
 
 - **CAPITULO 14**
 
@@ -128,7 +128,7 @@ observarse, una bobina se llama devanado primario y la otra devanado secundario.
 de voltaje se aplica al devanado primario y la carga se conecta al devanado secundario, como indica la segunda imagen. El devanado primario es el devanado de entrada y el secundario es el devanado de salida. Es común referirse al lado del transformador que tiene la fuente de voltaje como
 primario y al lado que tiene el voltaje inducido como secundario.
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/4%20imagenes%20inductancias.jpg)
 
 TRANSFORMADORES ELEVADORES Y REDUCTORES: Un transformador elevador tiene más vueltas en su devanado secundario que en el primario y se utiliza para incrementar voltaje de ca. Un transformador reductor tiene más vueltas en su devanado primario que en el secundario y se utiliza para reducir voltaje de ca.
 
@@ -178,7 +178,7 @@ El concepto de carga reflejada se ilustra en la imagen. La carga (RL) en el secu
 un transformador se refleja en el primario a causa de la acción del transformador. La carga aparece ante la fuente en el primario como si fuera una resistencia (Rpri) con un valor determinado
 por la relación de vueltas y el valor real de resistencia de la carga. La resistencia Rpri se llama resistencia reflejada.
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/5%20imagen.jpg)
 
 IGUALACION DE IMPEDANCIA: Una aplicación de los transformadores se encuentra en la igualación de una resistencia de carga
 frente a una resistencia de fuente para lograr una transferencia de potencia máxima. Esta técnica se llama igualación de impedancia. Recuerde que el teorema de transferencia de potencia
@@ -216,15 +216,28 @@ que normalmente tienen un primario con toma central.
 
 **EJERCICIOS CAPITULO 13**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-1-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-1-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-1-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-3-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-3-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-3-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-4-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/13-5-1.jpg)
 
 **EJERCICIOS CAPITULO 14**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/14-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/14-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/14-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/14-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/14-8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/14-8-1.jpg)
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=4cbijoAx024
 
 5. CONCLUSIONES
 
@@ -261,4 +274,4 @@ del 63% durante cada intervalo de constante de tiempo
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text](https://github.com/jlhurtado4/TAREA_6/blob/main/IMAGENES%20CAP%2011%20Y%2012/RubicasTarea.png)
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/RubicasTarea.png)

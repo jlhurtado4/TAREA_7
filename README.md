@@ -31,7 +31,7 @@ las líneas de fuerza magnéticas en torno de espiras adyacentes se deflexiona h
 de fuerza magnéticas actúan en direcciones opuestas entre espiras adyacentes y, por consiguiente,
 se anulan cuando las espiras están próximas una a la otra.
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA_7/blob/main/IMAGENES%20CAP%2013%20Y%2014/inductor%20basico.jpg)
 
 Inductancia:
 

@@ -269,6 +269,30 @@ magnético.
 ◆ En un circuito RL, el voltaje y la corriente crecientes o menguantes en un inductor provocan un cambio
 del 63% durante cada intervalo de constante de tiempo
 
+◆ Un transformador normal consta de dos o más bobinas acopladas magnéticamente en un núcleo común.
+
+◆ Existe inductancia mutua entre dos bobinas acopladas magnéticamente.
+
+◆ Cuando cambia la corriente en una bobina, se induce voltaje en la otra bobina.
+
+◆ El primario es el devanado conectado a la fuente, y el secundario es el devanado conectado a la carga.
+
+◆ El número de vueltas en el primario y el número de vueltas en el secundario determinan la relación de
+vueltas.
+
+◆ Las polaridades relativas de los voltajes primario y secundario son determinadas por la dirección de los
+devanados alrededor del núcleo.
+
+◆ La relación de vueltas de un transformador elevador es mayor que 1.
+
+◆ La relación de vueltas de un transformador reductor es menor que 1.
+
+◆ Un transformador no puede incrementar la potencia.
+
+◆ En un transformador ideal, la potencia de la fuente (potencia entrada) es igual a la potencia suministrada a la carga (potencia de salida).
+
+◆ Si el voltaje se eleva, la corriente se reduce y viceversa
+
 6. BIBLIOGRAFÍA
 
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
